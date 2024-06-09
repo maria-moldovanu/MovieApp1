@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Fantasy</item>
+        <item>Drama</item>
+        <item>Sitcom</item>
+    </string-array>
+
+    <string-array name="comedy">
+        <item>White Chicks|whiteCk.png|whiteCk.html</item>
+        <item>The Big Lebowski|big_Lb.png|big_Lb.html</item>
+    </string-array>
+
+    <string-array name="horror">
+        <item>Jaws|jaws.png|jaws.html</item>
+        <item>Silence Of The Lamb|SILENCE-OF-THE-LAMBS.png|SILENCE-OF-THE-LAMBS.html</item>
+    </string-array>
+
+    <string-array name="fantasy">
+        <item>Harry Potter|harrypotter.png|harrypotter.html</item>
+        <item>Alice in Wonderland|alice.png|alice.html</item>
+    </string-array>
+
+    <string-array name="drama">
+        <item>Little Women|little_women.png.jpg|little_women.png.html</item>
+        <item>Pride and Prejudice|pride-prejudice.png|pride-prejudice.html</item>
+    </string-array>
+
+    <string-array name="sitcom">
+        <item>How I Met Your Mother|how_i_met_your_mother.png|how_i_met_your_mother.html</item>
+        <item>BIG BANG Theory|big_bang.png|big_bang.html</item>
+    </string-array>
+
+</resources>
